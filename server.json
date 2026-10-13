@@ -3,7 +3,7 @@
   "name": "io.github.smrht/samautomation-video",
   "title": "Samautomation Video",
   "description": "Render an MP4 from your own images, clips, voice-over and timed captions. JSON to video.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://samautomation.work/",
   "repository": {
     "url": "https://github.com/smrht/samautomation-video-mcp",
